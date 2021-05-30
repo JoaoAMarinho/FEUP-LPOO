@@ -1,0 +1,16 @@
+### Gradle ###
+gradle/
+.gradle/
+gradlew
+gradlew.bat
+
+### Gradle Patch ###
+**/build/
+
+# IntelliJ
+out/
+.idea/
+*.iml
+
+# Other things
+*.DS_Store
